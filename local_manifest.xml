@@ -18,7 +18,7 @@
     <project path="kernel/samsung/msm8916" name="vlw/Kernel_MSM8916_Samsung" revision="master" remote="github" />
 
     <!-- Vendor -->
-    <project path="vendor/samsung" name="vlw/proprietary_vendor_samsung" revision="cm-12.1" remote="github" />
+    <project path="vendor/samsung" name="vlw/proprietary_vendor_samsung" revision="cm-14.0" remote="github" />
 
     <!-- Common device repos -->
     <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" revision="cm-14.0" remote="github" />
