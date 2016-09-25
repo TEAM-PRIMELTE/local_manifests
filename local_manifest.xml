@@ -27,4 +27,8 @@
     <!-- Hardware -->
     <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-14.0" remote="github" />
 
+    <!-- Other libs -->
+	<project path="external/stlport" name="CyanogenMod/android_external_stlport" revision="cm-14.0" remote="github" />
+	<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" revision="cm-14.0" remote="github" />
+
 </manifest>
