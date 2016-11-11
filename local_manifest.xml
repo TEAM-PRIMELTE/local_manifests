@@ -38,6 +38,9 @@
 
     <!-- TWRP sources -->
     <project path="bootable/recovery" name="omnirom/android_bootable_recovery" revision="android-7.0" remote="github" />
+    
+    <!-- BusyBox -->
+	<project path="external/busybox" name="CyanogenMod/android_external_busybox" revision="cm-13.0" remote="github" />
 
     <!-- CM replacements -->
     <project path="packages/services/Telecomm" name="vlw/android_packages_services_Telecomm" revision="cm-13.0" />
