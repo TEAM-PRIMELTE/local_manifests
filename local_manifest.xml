@@ -37,7 +37,7 @@
 	<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" revision="cm-13.0" remote="github" />
 
     <!-- TWRP sources -->
-    <project path="bootable/recovery" name="omnirom/android_bootable_recovery" revision="android-7.0" remote="github" />
+    <project path="bootable/recovery" name="vlw/android_bootable_recovery" revision="android-7.0" remote="github" />
     
     <!-- BusyBox -->
 	<project path="external/busybox" name="CyanogenMod/android_external_busybox" revision="cm-13.0" remote="github" />
