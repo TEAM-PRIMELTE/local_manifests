@@ -11,6 +11,7 @@
     <project path="vendor/samsung" name="vlw/proprietary_vendor_samsung" revision="cm-14.1" remote="github" />
 
     <!-- Common device repos -->
+    <project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" revision="cm-14.1" remote="github" />
     <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" revision="cm-14.1" remote="github" />
     <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1" remote="github" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" remote="github" />
