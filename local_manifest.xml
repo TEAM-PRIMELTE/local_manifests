@@ -8,7 +8,7 @@
     <project path="kernel/samsung/msm8916" name="vlw/android_kernel_samsung_msm8916_A3.git" revision="master" remote="github" />
 
     <!-- Vendor -->
-    <project path="vendor/samsung" name="vlw/proprietary_vendor_samsung" revision="cm-13.0" remote="github" />
+    <project path="vendor/samsung" name="vlw/proprietary_vendor_samsung" revision="cm-14.1" remote="github" />
 
     <!-- Common device repos -->
     <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" revision="cm-14.1" remote="github" />
