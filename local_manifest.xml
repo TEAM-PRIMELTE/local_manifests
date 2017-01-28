@@ -24,6 +24,6 @@
 	<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" remote="github" />
     
     <!-- BusyBox -->
-	<project path="external/busybox" name="LineageOS/android_external_busybox" revision="cm-13.0" remote="github" />
+	<project path="external/busybox" name="LineageOS/android_external_busybox" revision="cm-14.1" remote="github" />
 
 </manifest>
