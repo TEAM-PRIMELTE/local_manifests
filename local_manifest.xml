@@ -6,6 +6,8 @@
 
     <!-- Kernels -->
     <project path="kernel/samsung/msm8916" name="Aseries-Dev/android_kernel_samsung_msm8916" revision="master" remote="github" />
+    <!-- Linaro 4.8 -->
+	<project path="gcc-linaro_4.8.4-2014.114" name="vlw/gcc-linaro_4.8.4-2014.11" revision="master" remote="github" />
 
     <!-- Vendor -->
     <project path="vendor/samsung" name="Aseries-Dev/proprietary_vendor_samsung" revision="cm-14.1" remote="github" />
