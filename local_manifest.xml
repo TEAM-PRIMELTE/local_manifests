@@ -20,8 +20,5 @@
 
     <!-- Hardware -->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="cm-12.1" remote="github" />
-    
-    <!-- BusyBox -->
-	<project path="external/busybox" name="LineageOS/android_external_busybox" revision="cm-12.1" remote="github" />
 
 </manifest>
