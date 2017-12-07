@@ -2,8 +2,8 @@
 <manifest>
 
     <!-- A3 series -->
-    <project path="device/samsung/a3-common" name="vlw/android_device_samsung_a3-common" revision="cm-12.1" remote="github" />
-    <project path="device/samsung/a3ltexx" name="vlw/android_device_samsung_a3ltexx" revision="cm-12.1" remote="github" />
+    <project path="device/samsung/a3-common" name="vlw/android_device_samsung_a3-common" revision="lineage-12.1" remote="github" />
+    <project path="device/samsung/a3ltexx" name="vlw/android_device_samsung_a3ltexx" revision="lineage-12.1" remote="github" />
 
     <!-- Kernels -->
     <project path="kernel/samsung/msm8916" name="vlw/android_kernel_samsung_msm8916_A3" revision="master" remote="github" />
@@ -12,7 +12,7 @@
 	<project path="gcc-linaro_4.8.4-2014.114" name="vlw/gcc-linaro_4.8.4-2014.11" revision="master" remote="github" />
 
     <!-- Vendor -->
-    <project path="vendor/samsung" name="vlw/proprietary_vendor_samsung" revision="cm-12.1" remote="github" />
+    <project path="vendor/samsung" name="vlw/proprietary_vendor_samsung" revision="lineage-12.1" remote="github" />
 
     <!-- Common device repos -->
     <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" revision="cm-12.1" remote="github" />
