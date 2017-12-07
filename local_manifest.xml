@@ -3,7 +3,7 @@
 
     <!-- A3 series -->
     <project path="device/samsung/a3-common" name="vlw/android_device_samsung_a3-common" revision="lineage-12.1" remote="github" />
-    <project path="device/samsung/a3ltexx" name="vlw/android_device_samsung_a3ltexx" revision="lineage-12.1" remote="github" />
+    <project path="device/samsung/a3lte" name="vlw/android_device_samsung_a3ltexx" revision="lineage-12.1" remote="github" />
 
     <!-- Kernels -->
     <project path="kernel/samsung/msm8916" name="vlw/android_kernel_samsung_msm8916_A3" revision="master" remote="github" />
